@@ -21,8 +21,8 @@
 
 <h2>Environments Used </h2>
 
-- <b>macOS Ventura (13.3.1)</b>
-- <b>Windows 11 (10.0.22000.708)</b>
+- <b>macOS Ventura 13.3.1</b>
+- <b>Windows 11 10.0.22000.708</b>
 
 <br>
 
