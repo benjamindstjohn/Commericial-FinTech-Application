@@ -1,4 +1,4 @@
-<h1>Financial Pulse - Financial News and Data API</h1>
+<h1>Financial Pulse - Financial News, Charting, and Data API</h1>
 
 <h2>Description</h2>
 "...."
