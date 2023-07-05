@@ -1,21 +1,30 @@
-<h1>Financial Pulse - Financial News, Charting, and Data API</h1>
+<h1>Financial Pulse - Financial News, Charting, and Data APIs</h1>
+
+<br>
 
 <h2>Description</h2>
-"...."
-
-<br />
-
+ 
+```diff
+! WORK IN PROGRESS !
+```
+  
+<br>
 
 <h2>Languages and Utilities Used</h2>
 
+- <b>JavaScript</b>
 - <b>React.js</b>
 - <b>Python</b> 
 - <b>HTML & CSS</b>
+
+<br>
 
 <h2>Environments Used </h2>
 
 - <b>macOS Ventura 13.3.1</b>
 - <b>Windows 11</b>
+
+<br>
 
 <h2>Program walk-through:</h2>
 
@@ -48,12 +57,11 @@ Description 7:  <br/>
 <img src="https://imgur.com/lLLBePs" height="80%" width="80%" alt="API Application"/>
 </p>
 
-<!--
- ```diff
+
+```diff
 - text in red
 + text in green
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@
 ```
---!>
