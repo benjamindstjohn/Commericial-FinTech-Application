@@ -29,34 +29,35 @@
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Description 1: <br/>
-<img src="https://imgur.com/rBXp35F" height="80%" width="80%" alt="API Application"/>
+<i>Description 1...</i> <br/>
+<img src="https://i.imgur.com/9EVRUEO.png" height="40%" width="30%" alt="API Application"/>
 <br />
 <br />
-Description 2:  <br/>
-<img src="https://imgur.com/lLLBePs" height="80%" width="80%" alt="API Application"/>
+<i>Description 2...</i>  <br/>
+<img src="https://i.imgur.com/9EVRUEO.png" height="40%" width="30%" alt="API Application"/>
 <br />
 <br />
-Description 3: <br/>
-<img src="https://imgur.com/lLLBePs" height="80%" width="80%" alt="API Application"/>
+<i>Description 3...</i> <br/>
+<img src="https://i.imgur.com/9EVRUEO.png" height="40%" width="30%" alt="API Application"/>
 <br />
 <br />
-Description 4:  <br/>
-<img src="https://imgur.com/lLLBePs" height="80%" width="80%" alt="API Application"/>
+<i>Description 4...</i>  <br/>
+<img src="https://i.imgur.com/9EVRUEO.png" height="40%" width="30%" alt="API Application"/>
 <br />
 <br />
-Description 5:  <br/>
-<img src="https://imgur.com/lLLBePs" height="80%" width="80%" alt="API Application"/>
+<i>Description 5...</i>  <br/>
+<img src="https://i.imgur.com/9EVRUEO.png" height="40%" width="30%" alt="API Application"/>
 <br />
 <br />
-Description 6:  <br/>
-<img src="https://imgur.com/lLLBePs" height="80%" width="80%" alt="API Application"/>
+<i>Description 6...</i>  <br/>
+<img src="https://i.imgur.com/9EVRUEO.png" height="40%" width="30%" alt="API Application"/>
 <br />
 <br />
-Description 7:  <br/>
-<img src="https://imgur.com/lLLBePs" height="80%" width="80%" alt="API Application"/>
+<i>Description 7...</i>  <br/>
+<img src="https://i.imgur.com/9EVRUEO.png" height="40%" width="30%" alt="API Application"/>
 </p>
 
+<br>
 
 ```diff
 - text in red
