@@ -15,6 +15,8 @@
 - <b>JavaScript</b>
 - <b>React.js</b>
 - <b>HTML & CSS</b>
+- <b>Lightweight Charts™</b>
+- <b>APIs</b>
 
 <br>
 
