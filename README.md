@@ -14,7 +14,6 @@
 
 - <b>JavaScript</b>
 - <b>React.js</b>
-- <b>Python</b> 
 - <b>HTML & CSS</b>
 
 <br>
