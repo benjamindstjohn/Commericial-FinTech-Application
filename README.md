@@ -19,10 +19,10 @@
 
 <br>
 
-<h2>Environments Used </h2>
+<h2>OS Compatibility</h2>
 
-- <b>macOS Ventura</b> <i>13.3.1</i>
-- <b>Windows 11</b> <i>10.0.22000.708</i>
+- <b>macOS Sonoma</b> <i>14.0 & Earlier</i>
+- <b>Windows 11</b> <i>10.0.22000.708 & Earlier</i>
 
 <br>
 
