@@ -31,7 +31,7 @@
 
 <p align="center">
 <i>(i.) Precision 4.2 Advanced Charting System [BETA]</i> <br/>
-<img src="https://i.imgur.com/JyEH6I9.jpg" title="source: imgur.com" height="100%" width="100%" alt="API Application"/>
+<img src="https://i.imgur.com/iMsuYEE.jpg" title="source: imgur.com" height="100%" width="100%" alt="API Application"/>
 <br />
 <br />
 <i>(ii.) Financial Pulse Landing Page [BETA]</i>  <br/>
