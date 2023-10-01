@@ -5,7 +5,7 @@
 <h2>Description</h2>
  
 ```diff
-! WORK IN PROGRESS !
+! IN DEVELOPMENT STAGE !
 ```
   
 <br>
