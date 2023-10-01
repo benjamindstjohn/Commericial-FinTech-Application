@@ -30,11 +30,11 @@
 <h2>Program walk-through:</h2>
 
 <p align="center">
-<i>Precision 4.2 Advanced Charting System [BETA]</i> <br/>
+<i>(i.) Precision 4.2 Advanced Charting System [BETA]</i> <br/>
 <img src="https://i.imgur.com/JyEH6I9.jpg" title="source: imgur.com" height="100%" width="100%" alt="API Application"/>
 <br />
 <br />
-<i>Financial Pulse Landing Page [BETA]</i>  <br/>
+<i>(ii.) Financial Pulse Landing Page [BETA]</i>  <br/>
 <img src="https://i.imgur.com/hLLqvHo.png" title="source: imgur.com" height="100%" width="100%" alt="API Application"/>
 <br />
 <br />
@@ -46,16 +46,7 @@
 <img src="https://i.imgur.com/9EVRUEO.png" height="40%" width="30%" alt="API Application"/>
 <br />
 <br />
-<i>Description 5...</i>  <br/>
-<img src="https://i.imgur.com/9EVRUEO.png" height="40%" width="30%" alt="API Application"/>
-<br />
-<br />
-<i>Description 6...</i>  <br/>
-<img src="https://i.imgur.com/9EVRUEO.png" height="40%" width="30%" alt="API Application"/>
-<br />
-<br />
-<i>Description 7...</i>  <br/>
-<img src="https://i.imgur.com/9EVRUEO.png" height="40%" width="30%" alt="API Application"/>
+
 </p>
 
 <br>
