@@ -1,0 +1,3 @@
+lightweight-charts
+yfinance
+pandas_ta
