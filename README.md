@@ -20,7 +20,7 @@
 
 <br>
 
-<h2>OS Compatibility</h2>
+<h2>Notes</h2>
 
 - <b>macOS Sonoma</b> <i>14.0 & Earlier</i>
 - <b>Windows 11</b> <i>10.0.22000.708 & Earlier</i>
@@ -36,19 +36,7 @@
 <br />
 <i>(ii.) Financial Pulse Landing Page [BETA]</i>  <br/>
 <img src="https://i.imgur.com/hLLqvHo.png" title="source: imgur.com" height="100%" width="100%" alt="API Application"/>
-<br />
-<br />
-<i>Description 3...</i> <br/>
-<img src="https://i.imgur.com/9EVRUEO.png" height="40%" width="30%" alt="API Application"/>
-<br />
-<br />
-<i>Description 4...</i>  <br/>
-<img src="https://i.imgur.com/9EVRUEO.png" height="40%" width="30%" alt="API Application"/>
-<br />
-<br />
-
 </p>
-
 <br>
 
 ```diff
