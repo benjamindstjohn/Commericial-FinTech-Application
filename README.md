@@ -1,16 +1,16 @@
 <h1>Financial Pulse - Financial News, Charting, & Data</h1>
 
-<br>
+<hr>
 
-<h2>Description</h2>
+# Description
  
 ```diff
 ! IN DEVELOPMENT STAGE !
 ```
   
-<br>
+<hr>
 
-<h2>Languages and Utilities Used</h2>
+## Languages and Utilities Used
 
 - <b>JavaScript</b>
 - <b>React.js</b>
@@ -18,26 +18,23 @@
 - <b>Lightweight Charts™</b>
 - <b>APIs</b>
 
-<br>
+<hr>
 
-<h2>Notes</h2>
+### Notes
 
 - <b>macOS Sonoma</b> <i>14.0 & Earlier</i>
 - <b>Windows 11</b> <i>10.0.22000.708 & Earlier</i>
 
-<br>
+<hr>
 
-<h2>Program walk-through:</h2>
+#### Program Walkthrough
 
 <p align="center">
-<i>(i.) Precision 4.2 Advanced Charting System [BETA]</i> <br/>
+<i>(i.)TradingView: Lightweight Charts™</i> <br/>
 <img src="https://i.imgur.com/iMsuYEE.jpg" title="source: imgur.com" height="100%" width="100%" alt="API Application"/>
-<br />
-<br />
-<i>(ii.) Financial Pulse Landing Page [BETA]</i>  <br/>
-<img src="https://i.imgur.com/hLLqvHo.png" title="source: imgur.com" height="100%" width="100%" alt="API Application"/>
 </p>
-<br>
+
+<hr>
 
 ```diff
 - text in red
