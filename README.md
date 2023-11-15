@@ -4,9 +4,13 @@
 
 # Description
  
-```diff 
-(i) Front-end Development: Completed with Boostrap, CSS, HTML, and JavaScript  ✔✔
+<b><i>( i. )</i> Front-end Development:</b>
+<p align="center"></p>
+
+```diff
++ Completed with Bootstrap, React, and JavaScript ✔✔
 ```
+
   
 <hr>
 
@@ -22,22 +26,21 @@
 
 ### Notes
 
-- <b>macOS Sonoma</b> <i>14.0 & Earlier</i>
-- <b>Windows 11</b> <i>10.0.22000.708 & Earlier</i>
+- <b>Npm package used for front-end development.</b>
+- <b>RESTful API pipelines used for implementing accurate stock market pricing data alongside industry standard Lightweight Charts™</b>
 
 <hr>
 
 #### Program Walkthrough
 
 
-<p align="center">
-
-
-```diff 
-(ii) Financial Charting Function: Completed with Lightweight Charts™  ✔✔
+<b><i>( ii. )</i> Financial Charting Function:</b>
+<p align="center"></p>
+ 
+```diff
++ Completed with Lightweight Charts™ ✔✔
 ```
 
- 
 <br> <img src="https://i.imgur.com/iMsuYEE.jpg" title="source: imgur.com" height="100%" width="100%" alt="API Application"/>
 </p>
 
