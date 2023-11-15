@@ -20,28 +20,32 @@
 <p align="center"></p> <br>
 
 ```diff
-+ Completed with Bootstrap, React, and JavaScript ✔✔
+! Still in Development !
 ```
 <hr>
 
 ### Languages and Utilities Used
 
-- <b>JavaScript</b>
-- <b>React.js</b>
-- <b>HTML & CSS</b>
-- <b>Lightweight Charts™</b>
-- <b>APIs</b>
+- <b>JavaScript </b>
+- <b>React.js </b>
+- <b>HTML & CSS </b>
+- <b>Lightweight Charts™ </b>
+- <b>RESTful APIs </b>
+<p align="center"></p>
 
+```diff
+@@ Used to Craft a Seamless Front-end UI + UX and Optimize Functionality + Efficiency: @@
+```
 
 <hr>
 
 ### Program Walkthrough
 
 #### Function 1:
-
-@@ <b><i>( i. )</i> Financial Charting Function:</b>
  
 ```diff
+@@ Financial Charting Function: @@
+
 + Completed with Lightweight Charts™ ✔✔
 ```
 
@@ -53,9 +57,9 @@
 
 #### Function 2:
 
- @@ <b><i>( ii. )</i> Front-end GUI Development:</b>
-
 ```diff
+@@ Front-end GUI Development: @@
+
 + Completed with Bootstrap, React, and JavaScript ✔✔
 ```
 
