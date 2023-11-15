@@ -2,15 +2,26 @@
 
 <hr>
 
-## Description
- 
-<b><i>( i. )</i> Front-end Development:</b>
-<p align="center"></p>
+### Description
+<br>
+<b><i>FinTech Software Overview: <br> 
+<br>
+==></i></b> A cutting-edge Fintech company, serves as a comprehensive financial intelligence platform, seamlessly blending real-time news updates, advanced charting capabilities, and robust data analytic tools to empower investors or financial analysts to confidently navigate markets with precision and agility. <br>
+<br>
+<br>
+<b><i>Developmental and Engineering Challanges: <br>
+<br>
+==></i></b> In its initial developmental stage, the platform provides users with up-to-the-minute financial news, ensuring timely decision-making. <br>
+<br>
+<br>
+<b><i>Thesis and Relevant Application: <br>
+<br>
+==> </i></b> As the application steadily becomes optimized for large scale operations, Financial Pulse's functionality and value as a complimentary software companion continues to expand, currently possessing an applicative processining power in financial charting and data analytics.
+<p align="center"></p> <br>
 
 ```diff
 + Completed with Bootstrap, React, and JavaScript ✔✔
 ```
-  
 <hr>
 
 ### Languages and Utilities Used
@@ -24,9 +35,9 @@
 
 <hr>
 
-#### Program Walkthrough
+### Program Walkthrough
 
-###### Function 1:
+#### Function 1:
 
 @@ <b><i>( i. )</i> Financial Charting Function:</b>
  
@@ -40,7 +51,7 @@
 
 <hr>
 
-##### Function 2:
+#### Function 2:
 
  @@ <b><i>( ii. )</i> Front-end GUI Development:</b>
 
