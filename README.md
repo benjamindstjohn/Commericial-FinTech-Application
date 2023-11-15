@@ -4,8 +4,8 @@
 
 # Description
  
-```diff
-! IN DEVELOPMENT STAGE !
+```diff 
+(i) Front-end Development: Completed with Boostrap, CSS, HTML, and JavaScript  ✔✔
 ```
   
 <hr>
@@ -29,12 +29,20 @@
 
 #### Program Walkthrough
 
+
 <p align="center">
-<i>(i.)TradingView: Lightweight Charts™</i> <br/>
-<img src="https://i.imgur.com/iMsuYEE.jpg" title="source: imgur.com" height="100%" width="100%" alt="API Application"/>
+
+
+```diff 
+(ii) Financial Charting Function: Completed with Lightweight Charts™  ✔✔
+```
+
+ 
+<br> <img src="https://i.imgur.com/iMsuYEE.jpg" title="source: imgur.com" height="100%" width="100%" alt="API Application"/>
 </p>
 
 <hr>
+<b>ANNOTATION KEY:</b>
 
 ```diff
 - text in red
