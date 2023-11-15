@@ -26,7 +26,7 @@
 
 ### Notes
 
-- <b>Npm package used for front-end development.</b>
+- <b>Npm package used for initializing the fundamental framework of GUI development and deploying the developmental server.</b>
 - <b>RESTful API pipelines used for implementing accurate stock market pricing data alongside industry standard Lightweight Charts™</b>
 
 <hr>
