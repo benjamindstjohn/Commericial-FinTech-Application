@@ -71,7 +71,7 @@
 
 <footer>
   
-###### Key:
+###### Annotation Key:
   
 ```diff
 ! Denotes in development ☐ ☐
@@ -81,8 +81,7 @@
 - Denotes being debugged & tested ✖ ✖
 ```
 
-###### Contact:
-For all professional and business inquiries, please contact
+###### For All Professional Inquires, Please Contact:
 
 ```diff
 benjaminstjohn1@gmail.com
