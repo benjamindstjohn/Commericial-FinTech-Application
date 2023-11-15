@@ -1,8 +1,8 @@
-<h1>Financial Pulse - Financial News, Charting, & Data</h1>
+# 'Financial Pulse' - an up-to-date news, charting, and data analytics financial software service.</h1>
 
 <hr>
 
-# Description
+## Description
  
 <b><i>( i. )</i> Front-end Development:</b>
 <p align="center"></p>
@@ -10,11 +10,10 @@
 ```diff
 + Completed with Bootstrap, React, and JavaScript ✔✔
 ```
-
   
 <hr>
 
-## Languages and Utilities Used
+### Languages and Utilities Used
 
 - <b>JavaScript</b>
 - <b>React.js</b>
@@ -22,35 +21,56 @@
 - <b>Lightweight Charts™</b>
 - <b>APIs</b>
 
-<hr>
-
-### Notes
-
-- <b>Npm package used for initializing the fundamental framework of GUI development and deploying the developmental server.</b>
-- <b>RESTful API pipelines used for implementing accurate stock market pricing data alongside industry standard Lightweight Charts™</b>
 
 <hr>
 
 #### Program Walkthrough
 
+###### Function 1:
 
-<b><i>( ii. )</i> Financial Charting Function:</b>
-<p align="center"></p>
+@@ <b><i>( i. )</i> Financial Charting Function:</b>
  
 ```diff
 + Completed with Lightweight Charts™ ✔✔
 ```
 
-<br> <img src="https://i.imgur.com/iMsuYEE.jpg" title="source: imgur.com" height="100%" width="100%" alt="API Application"/>
-</p>
+<p align="center"></p>
+
+<img src="https://i.imgur.com/iMsuYEE.jpg" title="source: imgur.com" height="100%" width="100%" alt="API Application"></p>
 
 <hr>
-<b>ANNOTATION KEY:</b>
+
+##### Function 2:
+
+ @@ <b><i>( ii. )</i> Front-end GUI Development:</b>
 
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold) @@
++ Completed with Bootstrap, React, and JavaScript ✔✔
 ```
+
+<p align="center"></p>
+
+<img src="https://i.imgur.com/FiLgPk8.png" title="source: imgur.com" height="100%" width="100%" alt="MLMODEL"/> <br>
+
+<hr>
+
+<footer>
+  
+###### Key:
+  
+```diff
+@@ Denotes useful explanations Δ Δ @@
++ Denotes completion or nearing readiness for production use ✔ ✔
+! Denotes in development ☐ ☐
+- Denotes being debugged & tested ✖ ✖
+# Denotes comments or additional information ⍻ ⍻
+```
+
+###### Contact:
+For all professional and business inquiries, please contact
+
+```diff
+benjaminstjohn1@gmail.com
+```
+
+</footer>
