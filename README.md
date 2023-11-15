@@ -77,8 +77,8 @@
 ! Denotes in development ☐ ☐
 @@ Denotes useful explanations Δ Δ @@
 + Denotes completion or nearing readiness for production use ✔ ✔
-- Denotes being debugged & tested ✖ ✖
 # Denotes comments or additional information ⍻ ⍻
+- Denotes being debugged & tested ✖ ✖
 ```
 
 ###### Contact:
